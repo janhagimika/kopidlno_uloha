@@ -8,7 +8,7 @@ import javax.xml.stream.XMLStreamException;
 import java.io.File;
 import java.io.IOException;
 
-@RestController
+@Component
 public class KopidlnoController {
 
     @Autowired
