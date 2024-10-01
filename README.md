@@ -1,3 +1,5 @@
+Stažení xml souboru, parsování souboru a následné uložení dat do databáze.
+
 # kopidlno_uloha
 pro úlohu využita databáze postgres - připojení v application.properties
 tabulky vytvořeny pomocí 
